@@ -482,13 +482,15 @@ iframe{
     .position{
         display: block;
         float: inline-start;
-        flex-wrap: wrap;
-        
+        flex-wrap: wrap; 
+         
     }
 
     .finish{
         height: 105vh;
     }
+
+    
     
 }
 
