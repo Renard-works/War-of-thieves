@@ -209,6 +209,11 @@ a{
     background-color: #ddc9b4;
 }
 
+.special{
+    width: 93px;
+    text-align: center;
+}
+
 .text{
     padding-left: 85px;
     margin: 0;
@@ -280,6 +285,7 @@ h3{
 
 .rules-text{
     text-align: center;
+    font-size: 15px;
 }
 
 .red{
